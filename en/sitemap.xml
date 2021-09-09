@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://qaomia.github.io/ellipsis-box-concept/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qaomia.github.io/ellipsis-box-concept/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qaomia.github.io/ellipsis-box-concept/"
+                />
+  </url><url>
+    <loc>https://qaomia.github.io/ellipsis-box-concept/legal/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qaomia.github.io/ellipsis-box-concept/fr/legal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qaomia.github.io/ellipsis-box-concept/legal/"
+                />
+  </url>
+</urlset>
