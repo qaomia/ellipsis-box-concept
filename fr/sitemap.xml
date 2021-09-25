@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qaomia.github.io/ellipsis-box-concept/fr/</loc>
+    <loc>http://www.ellipsis-box.com/concept/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qaomia.github.io/ellipsis-box-concept/"
+                href="http://www.ellipsis-box.com/concept/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qaomia.github.io/ellipsis-box-concept/fr/"
+                href="http://www.ellipsis-box.com/concept/fr/"
                 />
   </url><url>
-    <loc>https://qaomia.github.io/ellipsis-box-concept/fr/legal/</loc>
+    <loc>http://www.ellipsis-box.com/concept/fr/legal/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qaomia.github.io/ellipsis-box-concept/legal/"
+                href="http://www.ellipsis-box.com/concept/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qaomia.github.io/ellipsis-box-concept/fr/legal/"
+                href="http://www.ellipsis-box.com/concept/fr/legal/"
                 />
   </url>
 </urlset>
