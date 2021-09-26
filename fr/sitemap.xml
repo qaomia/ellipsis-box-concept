@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ellipsis-box.com/concept/fr/</loc>
+    <loc>https://www.ellipsis-box.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ellipsis-box.com/concept/"
+                href="https://www.ellipsis-box.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.ellipsis-box.com/concept/fr/"
+                href="https://www.ellipsis-box.com/fr/"
                 />
   </url><url>
-    <loc>https://www.ellipsis-box.com/concept/fr/legal/</loc>
+    <loc>https://www.ellipsis-box.com/fr/legal/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ellipsis-box.com/concept/legal/"
+                href="https://www.ellipsis-box.com/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.ellipsis-box.com/concept/fr/legal/"
+                href="https://www.ellipsis-box.com/fr/legal/"
                 />
   </url>
 </urlset>
