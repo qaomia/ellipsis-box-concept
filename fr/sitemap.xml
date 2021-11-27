@@ -26,5 +26,18 @@
                 hreflang="fr"
                 href="https://www.ellipsis-box.com/fr/legal/"
                 />
+  </url><url>
+    <loc>https://www.ellipsis-box.com/fr/magnet-tutorial-lotr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ellipsis-box.com/magnet-tutorial-lotr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.ellipsis-box.com/fr/magnet-tutorial-lotr/"
+                />
   </url>
 </urlset>
